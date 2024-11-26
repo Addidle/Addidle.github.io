@@ -5,7 +5,7 @@ A brief description of what your project does and its purpose.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) Hi 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,4 +13,5 @@ A brief description of what your project does and its purpose.
 - [License](#license)
 - [Contact](#contact)
 
-## Contact
+## Contact info
+
